@@ -168,6 +168,24 @@ The project uses two datasets:
 
 
 
+![image](https://github.com/user-attachments/assets/22fc3fc7-8b50-4d16-8ed0-079ab59754f8)
+
+
+![image](https://github.com/user-attachments/assets/cef36b86-d6db-4772-aedf-875170207b8d)
+
+
+![image](https://github.com/user-attachments/assets/a56a3ebf-55eb-4ea7-b3dd-b0ef00ec0855)
+
+
+![image](https://github.com/user-attachments/assets/e3e46369-35ca-47f6-94aa-0644c26a3d1a)
+
+
+![image](https://github.com/user-attachments/assets/0624a58a-5a62-4d8d-aff7-30f0cdf47b93)
+
+
+![image](https://github.com/user-attachments/assets/62c0bf05-5ff0-46d7-927a-d9000eb59a3e)
+
+
 
 
 
