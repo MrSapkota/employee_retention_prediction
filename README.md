@@ -98,6 +98,82 @@ The project uses two datasets:
 
 
 
+![image](https://github.com/user-attachments/assets/a0e84a62-d929-4434-b09c-cc37a973b07a)
+
+
+![image](https://github.com/user-attachments/assets/845adf54-f83b-47f1-a95f-7ff77e235ccb)
+
+*city_development_index: The histograms would reveal the distribution of city development indices in both the training and test sets.
+
+*Skewness: Whether the distribution is skewed (leaning more towards lower or higher values).
+
+*Modality: Whether there are multiple peaks in the distribution, suggesting distinct groups of cities with different development levels.
+
+*Differences between Train and Test: the distributions in the training and test sets are similar or significantly different, which could impact model performance.
+
+
+
+*training_hours: The box plots would provide information about:
+
+*Central Tendency: The median (represented by the line inside the box) of training hours.
+
+*Spread/Dispersion: The interquartile range (IQR), represented by the box's height, shows the spread of the middle 50% of the data.
+
+*Outliers: Points outside the whiskers of the box plot are potential outliers, indicating unusually high or low training hours.
+
+*Differences between Train and Test: comparing the medians, IQRs, and outlier patterns between the training and test sets to see if there are significant differences.
+
+
+![image](https://github.com/user-attachments/assets/bec76527-b441-4005-9f5a-53e263733384)
+
+
+![image](https://github.com/user-attachments/assets/8f6716ff-97eb-4e07-82b6-1ee037c35623)
+
+
+![image](https://github.com/user-attachments/assets/ccc2f2a1-71a6-4e24-92ea-310335f6e263)
+
+* Gender: If the count plot for 'gender' shows a significant difference between the number of males and females, it could indicate a potential bias in the dataset.
+
+* Relevant Experience: The count plot for 'relevent_experience' can reveal the proportion of candidates with prior experience, which might be a crucial factor for predicting their job-seeking behavior.
+
+* Education Level: The distribution of education levels can offer insights into the qualifications of candidates in the dataset.
+
+* Company Size: The count plot for 'company_size' can highlight the prevalence of different company sizes, which might be relevant for understanding job market trends.
+
+
+![image](https://github.com/user-attachments/assets/84baac63-f187-4717-9e38-bdae27617508)
+
+* the target variable plot provides crucial information about the distribution of the target variable and helps identify the presence of class imbalance, which is a critical factor to consider when building a classification model. By carefully examining this plot, we can make informed decisions about addressing class imbalance and improving the performance of our model.
+
+
+![image](https://github.com/user-attachments/assets/353d6d46-a305-42e3-a919-801c56524536)
+
+
+![image](https://github.com/user-attachments/assets/71e0a3c4-a2be-46e8-a272-1a1a7af4296c)
+
+
+![image](https://github.com/user-attachments/assets/5263514f-05a5-4ac1-a66d-e30a7b237b18)
+
+
+![image](https://github.com/user-attachments/assets/19c87de5-cd01-4f07-a8ab-b26779077757)
+
+
+![image](https://github.com/user-attachments/assets/03efa67a-4b2d-49c6-a23a-d2c622487203)
+
+
+![image](https://github.com/user-attachments/assets/2b5faeaf-f6a5-40e1-9fdf-0a6daf540228)
+
+
+![image](https://github.com/user-attachments/assets/693bf091-907c-400f-a62d-b9cc872dfc08)
+
+
+
+
+
+
+
+
+
 
 
 
