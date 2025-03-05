@@ -55,3 +55,6 @@ The project uses two datasets:
     -Identified key factors influencing employee retention
   
     -Compared model performances using accuracy and F1-score
+
+git clone https://github.com/yourusername/employee-retention-prediction.git
+cd employee-retention-prediction
