@@ -9,9 +9,9 @@ This project analyzes employee data to predict whether an employee is likely to 
 * Dataset
 The project uses two datasets:
 
--aug_train.csv: Training dataset
+  -aug_train.csv: Training dataset
 
--aug_test.csv: Testing dataset
+  -aug_test.csv: Testing dataset
 
 
 * Key Steps in the Project
